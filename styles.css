@@ -33,6 +33,26 @@ body {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+body:not(.dark-theme) {
+    --primary-color: #2c3e50;
+    --secondary-color: #34495e;
+    --text-color: #333;
+    --background-color: #f8f9fa;
+    --card-background: white;
+    --card-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --border-color: #eee;
+}
+
+body.dark-theme {
+    --primary-color: #ebeaed;
+    --secondary-color: #B0B0B0;
+    --text-color: #E0E0E0;
+    --background-color: #121212;
+    --card-background: #1e1e1e;
+    --card-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    --border-color: #444444;
+}
+
 .container {
     max-width: var(--max-width);
     margin: 0 auto;
@@ -46,25 +66,29 @@ header {
     border-bottom: 1px solid var(--border-color);
     position: relative;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 1rem;
 }
 
 .header-content {
     text-align: center;
+    width: 100%;
 }
 
 #theme-toggle {
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
+    position: relative;
     background: none;
     border: none;
     cursor: pointer;
     padding: 0.5rem;
     color: var(--text-color);
     transition: color 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 #theme-toggle:hover {
@@ -76,12 +100,28 @@ header {
     height: 24px;
 }
 
-.dark-theme .sun-icon {
+#theme-toggle .sun-icon {
     display: none;
 }
 
-.light-theme .moon-icon {
+#theme-toggle .moon-icon {
+    display: block;
+}
+
+body:not(.dark-theme) #theme-toggle .sun-icon {
+    display: block;
+}
+
+body:not(.dark-theme) #theme-toggle .moon-icon {
     display: none;
+}
+
+body.dark-theme #theme-toggle .sun-icon {
+    display: none;
+}
+
+body.dark-theme #theme-toggle .moon-icon {
+    display: block;
 }
 
 h1 {
@@ -147,6 +187,25 @@ footer {
     font-size: 0.9rem;
 }
 
+@media (min-width: 769px) {
+    header {
+        flex-direction: row;
+        gap: 0;
+    }
+    
+    .header-content {
+        margin-bottom: 0;
+    }
+    
+    #theme-toggle {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        width: auto;
+    }
+}
+
 @media (max-width: 768px) {
     .container {
         padding: 1rem;
@@ -176,6 +235,6 @@ footer {
     }
     
     #theme-toggle {
-        right: 1rem;
+        margin: 0 auto;
     }
 } 
