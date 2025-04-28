@@ -1,31 +1,31 @@
-# What Nick Thinks
+# WhatNickThinks.com (2008-2019)
 
-A personal blog/website showcasing thoughts, ideas, and content from Nick.
+WhatNickThinks.com was a website I used to run that published "reviews, rants, and more." First going online in 2008, WhatNickThinks began as a simple Google Sites page posting restaurant reviews in broken English. By the time is was all said and done, WhatNickThinks had evolved into publishing entertainment reviews. In 2019, WhatNickThinks.com was formally shut down for the final time. In 2022, the domain, WhatNickThinks.com, was let to expire. In 2024, One Thirteen reacquired the domain name and published the original "Hello, old friend." letter, in its original form.
 
-## Overview
+## Timeline
 
-This is a static website built with HTML and CSS, designed to be simple, clean, and focused on content. The site is hosted on GitHub Pages and can be accessed at [https://onethirteenco.github.io/whatnickthinks/](https://onethirteenco.github.io/whatnickthinks/).
+WhatNickThinks would have never started, if not for a fateful trip to Buckley's Tavern, circa 2008.
+- 2008: Received subpar buffalo wings and was urged to post my thoughts online. Shortly after, WhatNickThinks was published to Google Sites.
+- 2010: The first subdomain, WhatNickThinks.YolaSite.com, was purchased, ushering a new era of design and website features.
+- 2012: The full domain, WhatNickThinks.com, was purchased, restaurant reviews stopped, and entertainment reviews began.
+- 2015: WhatNickThinks transition from Yola for hosting/design to Squarespace.
+- 2019: WhatNickThinks.com was formally shut down for the final time.
+- 2022: The domain name, WhatNickThinks.com, was let to expire after 14 years of ownership.
+- 2024: The domain name was reacquired by One Thirteen and final letter, "Hello, old friend." was republished.
 
-## Structure
+## Featured Categories
 
-- `index.html` - Main page containing the blog content
-- `styles.css` - Styling for the website
+The site's tagline/slogan read, "Reviews, Rants, and More!". Some common articles included:
+- Film & Television reviews, rated out of five stars. Television reviews often included both episodes and full season reviews.
+- Rants and gut reactions to the most recent episodes of television, the most popular of which being Graceland season three ("Dog Catches Car").
+- Technology-oriented articles covering desk setups, cool products, and, eventually, technology reviews.
 
-## Development
+## Updates
 
-To work on this project locally:
+WhatNickThinks is no longer being updated or maintained. One Thirteen is operated by the same individuals who operated WhatNickThinks.com and all associated channels/accounts. This website/repo may be updated in the future. To anyone out there who remembers, thank you.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/onethirteenco/whatnickthinks.git
-   ```
-
-2. Open `index.html` in your browser to view the site locally
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
+The final letter, "Hello, old friend.," has been posted, un-edited, to WhatNickThinks.com.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE). 
+This content is open source and available under the [MIT License](LICENSE).
