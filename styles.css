@@ -100,27 +100,27 @@ header {
     height: 24px;
 }
 
-#theme-toggle .sun-icon {
+.sun-icon {
     display: none;
 }
 
-#theme-toggle .moon-icon {
+.moon-icon {
     display: block;
 }
 
-body:not(.dark-theme) #theme-toggle .sun-icon {
+body:not(.dark-theme) .sun-icon {
     display: block;
 }
 
-body:not(.dark-theme) #theme-toggle .moon-icon {
+body:not(.dark-theme) .moon-icon {
     display: none;
 }
 
-body.dark-theme #theme-toggle .sun-icon {
+body.dark-theme .sun-icon {
     display: none;
 }
 
-body.dark-theme #theme-toggle .moon-icon {
+body.dark-theme .moon-icon {
     display: block;
 }
 
