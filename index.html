@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatNickThinks - Film & Media Reviews</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>WhatNickThinks</h1>
+                <p class="subtitle">2008-2019</p>
+            </div>
+            <button id="theme-toggle" aria-label="Toggle dark mode">
+                <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="5"></circle>
+                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                </svg>
+                <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+            </button>
+        </header>
+        <main>
+            <div class="letter">
+                <p class="opening">"We've been at this a long time, you and I."</p>
+                
+                <p>If you're reading this, chances are something has gone terribly, terribly wrong. Either that or something went so incredibly right that I was fortunate enough to "leave on top." We all know that didn't happen, though. No, instead our story ended much like it began. <i>Quietly.</i></p>
+                
+                <p>Now I could sit here and bore you to death about every single shortcoming I faced when trying to operate the website that shall not be named. Let's just say I was lazy, and didn't give it the attention it needed in order to thrive. The content was garbage, the writing was awful, and the heart had seemingly vanished. So I quit. And I haven't looked back since. I began working more on the creative side of things, creating video for companies and organizations alike. I even dabble in the occasional short film, to really test my knowledge. I believe that's the world that I belong in. Not one that's confined to words on a page.</p>
+                
+                <p>The website went through plenty of shakeups and changes along the way. Starting as a simple Google Sites page all the way back in 2008 (which is still up), switching to Yola for hosting and design, creating a subdomain, moving on from restaurant reviews, introducing film reviews, the big leap to SquareSpace, and so much more. It was never truly ready, and I wasn't truly ready to make it work.</p>
+                
+                <p>The site didn't have many fans. In fact the average visits per month were about 25-50. Once the good wrapped up and the bad began, that monthly number dropped lower and lower until the only visits were from myself.</p>
+                
+                <p>It was a blast until it wasn't. Once that day came, the only thing I could do was drag it down, or give up. I did both.</p>
+                
+                <p>Overall, the website began rather innocently. An outlet to get my thoughts out of my head and share them with whoever cared to look. It quickly began something that I never intended it to become. Never once was it's intent to deceive or present inaccurate information. The person running the operation was just in over his head. Who knows, maybe I'll be able to look back at that stretch of time and be appreciative and proud of the work I completed when running the site. But right now, I'm leaving, much like it began. <i>Quietly.</i></p>
+                
+                <p class="closing">And that is What Nick Thinks.</p>
+            </div>
+        </main>
+        <footer>
+            <p>© 2025 One Thirteen, LLC. All rights reserved.</p>
+        </footer>
+    </div>
+    <script>
+        const themeToggle = document.getElementById('theme-toggle');
+        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+        
+        // Check for saved theme preference or use system preference
+        const currentTheme = localStorage.getItem('theme') || 
+            (prefersDarkScheme.matches ? 'dark' : 'light');
+        
+        // Set initial theme
+        document.body.classList.toggle('dark-theme', currentTheme === 'dark');
+        
+        themeToggle.addEventListener('click', () => {
+            const newTheme = document.body.classList.contains('dark-theme') ? 'light' : 'dark';
+            document.body.classList.toggle('dark-theme');
+            localStorage.setItem('theme', newTheme);
+        });
+    </script>
+</body>
+</html> 
