@@ -1,6 +1,6 @@
 # WhatNickThinks.com (2008-2019)
 
-WhatNickThinks.com was a website I used to run that published "reviews, rants, and more." First going online in 2008, WhatNickThinks began as a simple Google Sites page posting restaurant reviews in broken English. By the time it was all said and done, WhatNickThinks had evolved into publishing entertainment reviews. In 2019, WhatNickThinks.com was formally shut down for the final time. In 2022, the domain WhatNickThinks.com was let to expire. In 2024, One Thirteen reacquired the domain name and published the original "Hello, old friend." letter in its original form.
+WhatNickThinks.com was a website I used to run that published "reviews, rants, and more." First going online in 2008, WhatNickThinks began as a simple Google Sites page posting restaurant reviews in broken English. By the time is was all said and done, WhatNickThinks had evolved into publishing entertainment reviews. In 2019, WhatNickThinks.com was formally shut down for the final time. In 2022, the domain, WhatNickThinks.com, was let to expire. In 2024, One Thirteen reacquired the domain name and published the original "Hello, old friend." letter, in its original form.
 
 ## Timeline
 
@@ -45,7 +45,3 @@ The final letter, "Hello, old friend.," has been posted, unedited, to WhatNickTh
 ## License
 
 This content is open source and available under the [MIT License](LICENSE).
-
-### Disclaimer
-
-This README file was generated used AI and edited by a human.
