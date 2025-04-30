@@ -22,25 +22,26 @@ The site's tagline/slogan read, "Reviews, Rants, and More!". Some common article
 
 ## Site Evolution
 
-Here are the WhatNickThinks assets and site images that managed to be preserved. These images showcase the visual journey of the website from its early days to its final form.
+Here are the WhatNickThinks assets and site images that managed to be preserved, courtesy of [The Internet Archive](https://archive.org) and the [Wayback Machine](https://web.archive.org).
 
 ### Logo Evolution
 ![WhatNickThinks Logo (2015)](images/WhatNickThinks%20Logo%20%282015%29.png)
-*The WhatNickThinks logo from 2015, representing the site's brand identity during its Squarespace era*
+
+*The WhatNickThinks logo from 2015, the final design before beginning the transition to Squarespace for design.*
 
 ### Site Design Timeline
 
 #### December 2013
 ![WhatNickThinks December 2013](images/WhatNickThinks%28Dec13%29.png)
-*The site's design from December 2013, showcasing the early Yola-based layout*
+*The site's design from December 2013, showcasing the early Yola-based layout. I'm not convinced the website shipped like this, but you never know.*
+
+#### December 2015
+![WhatNickThinks December 2024](images/WhatNickThinks%28Dec24%29.png)
+*The final iteration of WhatNickThinks on Yola.*
 
 #### 2015 Feature Design
 ![WhatNickThinks Feature Image (2015)](images/WhatNickThinks-Feature%282015%29.png)
-*Feature image from 2015 highlighting the site's transition to a more modern design*
-
-#### Current Design (December 2024)
-![WhatNickThinks December 2024](images/WhatNickThinks%28Dec24%29.png)
-*The current site design as of December 2024, representing the final iteration of WhatNickThinks*
+*Feature image from 2015 that was used across social media channels and blog articles.*
 
 ## Updates
 
@@ -48,6 +49,6 @@ WhatNickThinks is no longer being updated or maintained. One Thirteen is operate
 
 The final letter, "Hello, old friend.," has been posted, unedited, to WhatNickThinks.com.
 
-## License
+### Disclaimer
 
-This content is open source and available under the [MIT License](LICENSE).
+The contents of this README file were generated using AI and edited by a human.
