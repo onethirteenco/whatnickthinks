@@ -1,17 +1,17 @@
 # WhatNickThinks.com (2008-2019)
 
-WhatNickThinks.com was a website I used to run that published "reviews, rants, and more." First going online in 2008, WhatNickThinks began as a simple Google Sites page posting restaurant reviews in broken English. By the time is was all said and done, WhatNickThinks had evolved into publishing entertainment reviews. In 2019, WhatNickThinks.com was formally shut down for the final time. In 2022, the domain, WhatNickThinks.com, was let to expire. In 2024, One Thirteen reacquired the domain name and published the original "Hello, old friend." letter, in its original form.
+WhatNickThinks.com was a website I used to run that published "reviews, rants, and more." First going online in 2008, WhatNickThinks began as a simple Google Sites page posting restaurant reviews in broken English. By the time it was all said and done, WhatNickThinks had evolved into publishing entertainment reviews. In 2019, WhatNickThinks.com was formally shut down for the final time. In 2022, the domain WhatNickThinks.com was let to expire. In 2024, One Thirteen reacquired the domain name and published the original "Hello, old friend." letter in its original form.
 
 ## Timeline
 
-WhatNickThinks would have never started, if not for a fateful trip to Buckley's Tavern, circa 2008.
+WhatNickThinks would have never started if not for a fateful trip to Buckley's Tavern, circa 2008.
 - 2008: Received subpar buffalo wings and was urged to post my thoughts online. Shortly after, WhatNickThinks was published to Google Sites.
-- 2010: The first subdomain, WhatNickThinks.YolaSite.com, was purchased, ushering a new era of design and website features.
+- 2010: The first subdomain, WhatNickThinks.YolaSite.com, was purchased, ushering in a new era of design and website features.
 - 2012: The full domain, WhatNickThinks.com, was purchased, restaurant reviews stopped, and entertainment reviews began.
-- 2015: WhatNickThinks transition from Yola for hosting/design to Squarespace.
+- 2015: WhatNickThinks transitioned from Yola for hosting/design to Squarespace.
 - 2019: WhatNickThinks.com was formally shut down for the final time.
 - 2022: The domain name, WhatNickThinks.com, was let to expire after 14 years of ownership.
-- 2024: The domain name was reacquired by One Thirteen and final letter, "Hello, old friend." was republished.
+- 2024: The domain name was reacquired by One Thirteen and the final letter, "Hello, old friend." was republished.
 
 ## Featured Categories
 
@@ -20,12 +20,32 @@ The site's tagline/slogan read, "Reviews, Rants, and More!". Some common article
 - Rants and gut reactions to the most recent episodes of television, the most popular of which being Graceland season three ("Dog Catches Car").
 - Technology-oriented articles covering desk setups, cool products, and, eventually, technology reviews.
 
+## Site Evolution
+
+Here are the WhatNickThinks assets and site images that managed to be preserved.
+
+![WhatNickThinks Logo (2015)](images/WhatNickThinks%20Logo%20%282015%29.png)
+*The WhatNickThinks logo from 2015*
+
+![WhatNickThinks Feature Image (2015)](images/WhatNickThinks-Feature%282015%29.png)
+*Feature image from 2015 showcasing the site's design*
+
+![WhatNickThinks December 2013](images/WhatNickThinks%28Dec13%29.png)
+*Site design from December 2013*
+
+![WhatNickThinks December 2024](images/WhatNickThinks%28Dec24%29.png)
+*Current site design as of December 2024*
+
 ## Updates
 
 WhatNickThinks is no longer being updated or maintained. One Thirteen is operated by the same individuals who operated WhatNickThinks.com and all associated channels/accounts. This website/repo may be updated in the future. To anyone out there who remembers, thank you.
 
-The final letter, "Hello, old friend.," has been posted, un-edited, to WhatNickThinks.com.
+The final letter, "Hello, old friend.," has been posted, unedited, to WhatNickThinks.com.
 
 ## License
 
 This content is open source and available under the [MIT License](LICENSE).
+
+### Disclaimer
+
+This README file was generated used AI and edited by a human.
