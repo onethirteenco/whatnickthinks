@@ -22,19 +22,25 @@ The site's tagline/slogan read, "Reviews, Rants, and More!". Some common article
 
 ## Site Evolution
 
-Here are the WhatNickThinks assets and site images that managed to be preserved.
+Here are the WhatNickThinks assets and site images that managed to be preserved. These images showcase the visual journey of the website from its early days to its final form.
 
+### Logo Evolution
 ![WhatNickThinks Logo (2015)](images/WhatNickThinks%20Logo%20%282015%29.png)
-*The WhatNickThinks logo from 2015*
+*The WhatNickThinks logo from 2015, representing the site's brand identity during its Squarespace era*
 
-![WhatNickThinks Feature Image (2015)](images/WhatNickThinks-Feature%282015%29.png)
-*Feature image from 2015 showcasing the site's design*
+### Site Design Timeline
 
+#### December 2013
 ![WhatNickThinks December 2013](images/WhatNickThinks%28Dec13%29.png)
-*Site design from December 2013*
+*The site's design from December 2013, showcasing the early Yola-based layout*
 
+#### 2015 Feature Design
+![WhatNickThinks Feature Image (2015)](images/WhatNickThinks-Feature%282015%29.png)
+*Feature image from 2015 highlighting the site's transition to a more modern design*
+
+#### Current Design (December 2024)
 ![WhatNickThinks December 2024](images/WhatNickThinks%28Dec24%29.png)
-*Current site design as of December 2024*
+*The current site design as of December 2024, representing the final iteration of WhatNickThinks*
 
 ## Updates
 
