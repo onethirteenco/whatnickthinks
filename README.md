@@ -2,6 +2,8 @@
 
 WhatNickThinks.com was a website I used to run that published "reviews, rants, and more." First going online in 2008, WhatNickThinks began as a simple Google Sites page posting restaurant reviews in broken English. By the time is was all said and done, WhatNickThinks had evolved into publishing entertainment reviews. In 2019, WhatNickThinks.com was formally shut down for the final time. In 2022, the domain, WhatNickThinks.com, was let to expire. In 2024, One Thirteen reacquired the domain name and published the original "Hello, old friend." letter, in its original form.
 
+The purpose of this repository is to host some of the preserved assets from WhatNickThinks, as well as to host the final letter that was posted to the website in 2019, "Hello, old friend."
+
 ## Timeline
 
 WhatNickThinks would have never started, if not for a fateful trip to Buckley's Tavern, circa 2008.
